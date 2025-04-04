@@ -1,2 +1,2 @@
 # spring_webapp
-tTest of a spring web application
+Test of a spring web application
